@@ -1,0 +1,7 @@
+{
+  "sources": {
+    "mysettings": {
+      "path": "./site-cookbooks/mysettings"
+    }
+  }
+}
